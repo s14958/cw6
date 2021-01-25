@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Wyklad6_nauka.Models
+namespace Cwiczenia6.Models
 {
     public class Enrollment
     {

@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Wyklad6_nauka.Models;
+using Cwiczenia6.Models;
 
-namespace Wyklad6_nauka.Services
+namespace Cwiczenia6.Services
 {
     public class MockDbService : IStudentDbService
     {

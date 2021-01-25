@@ -21,3 +21,10 @@ path: /students, mathod: POST, queryString: , bodyString: {
 path: /students, mathod: GET, queryString: , bodyString: {
     "satan": 666
 }
+path: /students, mathod: GET, queryString: , bodyString: 
+path: /favicon.ico, mathod: GET, queryString: , bodyString: 
+path: /students, mathod: GET, queryString: , bodyString: {
+    "satan": 666
+}
+path: /students, mathod: GET, queryString: , bodyString: 
+path: /favicon.ico, mathod: GET, queryString: , bodyString: 

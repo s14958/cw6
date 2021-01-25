@@ -11,10 +11,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Wyklad6_nauka.Middlewares;
-using Wyklad6_nauka.Services;
+using Cwiczenia6.Middlewares;
+using Cwiczenia6.Services;
 
-namespace Wyklad6_nauka
+namespace Cwiczenia6
 {
     public class Startup
     {

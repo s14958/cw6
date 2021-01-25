@@ -5,9 +5,9 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Wyklad6_nauka.Services;
+using Cwiczenia6.Services;
 
-namespace Wyklad6_nauka.Middlewares
+namespace Cwiczenia6.Middlewares
 {
     public class LoggingMiddleware
     {

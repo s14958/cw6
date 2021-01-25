@@ -3,10 +3,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Wyklad6_nauka.Models;
-using Wyklad6_nauka.Services;
+using Cwiczenia6.Models;
+using Cwiczenia6.Services;
 
-namespace Wyklad6_nauka.Controllers
+namespace Cwiczenia6.Controllers
 {
     [ApiController]
     [Route("students")]

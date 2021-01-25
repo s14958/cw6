@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Wyklad6_nauka.Services
+namespace Cwiczenia6.Services
 {
     public interface IFileService
     {

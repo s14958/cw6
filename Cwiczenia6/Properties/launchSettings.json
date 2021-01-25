@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Wyklad6_nauka": {
+    "Cwiczenia6": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "weatherforecast",
