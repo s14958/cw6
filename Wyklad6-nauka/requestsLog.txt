@@ -1,0 +1,23 @@
+path: /students, mathod: GET, queryString: , bodyString: 
+path: /favicon.ico, mathod: GET, queryString: , bodyString: 
+path: /students/s4, mathod: POST, queryString: ?laska=sexy, bodyString: {
+    "satan": 666
+}
+path: /students/s4, mathod: POST, queryString: ?laska=sexy, bodyString: {
+    "satan": 666
+}
+path: /students/s4, mathod: POST, queryString: ?laska=sexy, bodyString: {
+    "satan": 666
+}
+path: /students/s4, mathod: POST, queryString: ?laska=sexy, bodyString: {
+    "satan": 666
+}
+path: /students/s4, mathod: POST, queryString: , bodyString: {
+    "satan": 666
+}
+path: /students, mathod: POST, queryString: , bodyString: {
+    "satan": 666
+}
+path: /students, mathod: GET, queryString: , bodyString: {
+    "satan": 666
+}
